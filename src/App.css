@@ -1,0 +1,22 @@
+.todo-app {
+  color: rgb(133, 112, 112);
+  margin: 30px auto;
+  width: 30%;
+}
+
+.todo-app ul {
+  list-style-type: none;
+  padding-left: 10px;
+}
+
+.todo-app li button {
+  margin-left: 10px;
+}
+
+.ischecked {
+  text-decoration: line-through;
+}
+
+.link {
+  text-decoration: none;
+}
